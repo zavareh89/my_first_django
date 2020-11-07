@@ -26,7 +26,7 @@ SECRET_KEY = '&9h(4+oip#4ytov8h9%g703r6o2+y&4yil8!ult7-thb3l^0&n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mhzavareh90.pythonanywhere.com']
 
 
 # Application definition
